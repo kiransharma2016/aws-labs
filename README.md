@@ -8,4 +8,9 @@ Simplified step by step AWS and related Labs
 ## Have any Questions?
 [Open an Issue](https://github.com/ravsau/aws-labs/issues/new)
 
-## Want to Contribute? Open a Pull Request!
+## Want to Contribute? Open a Pull Request
+
+## boto 3 tutorials
+
+https://boto3.amazonaws.com/v1/documentation/api/latest/guide/sqs.html
+
