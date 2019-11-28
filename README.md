@@ -14,3 +14,5 @@ Simplified step by step AWS and related Labs
 
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/sqs.html
 
+#### signed url
+https://www.cloudberrylab.com/resources/blog/s3-pre-signed-url-guide/
